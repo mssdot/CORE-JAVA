@@ -1,4 +1,4 @@
 # CORE-JAVA
-ALL JAVA PRACTICED PROBLEMS PRACTICE
+All Practiced Java Concept Problems
 
-HEE
+ 
